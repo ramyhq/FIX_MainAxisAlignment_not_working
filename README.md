@@ -1,17 +1,13 @@
-# exame_your_students
+# How to fix MainAxisAlignment under SingleChildScrollView is not working | Flutter
 
-Exam app
+This simple code for this issue, i hope it help someone :)
 
-## Getting Started
+## Youtube Video
+https://youtu.be/GEEi29JJ598
 
-This project is a starting point for a Flutter application.
+## Or read the artical
+https://www.ifeps.net/2022/03/mainaxisalignment-under.html
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # FIX_MainAxisAlignment_not_working
